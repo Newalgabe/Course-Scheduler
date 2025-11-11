@@ -1,0 +1,17 @@
+# Course Scheduler - Graph Coloring
+# Requirements file
+
+# This project uses only Python standard library
+# No external dependencies required
+
+# Python 3.6 or higher is required
+# Tkinter is required for GUI (usually included with Python)
+# On Linux, you may need to install: sudo apt-get install python3-tk
+
+# For development/testing (optional):
+# pytest>=7.0.0  # For unit testing
+# black>=22.0.0  # For code formatting
+# flake8>=4.0.0  # For linting
+
+
+
